@@ -1,4 +1,4 @@
-# Using Bash
+# Using Git with the command line interface
 
 In this practice session, you will exercise your git skills. Follow the procedure shown below.
 
